@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/12/03 11:01:08.737.pas,C:\Users\gian.eric\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\gian.eric\Documents\RAD Studio\Projects\Gravar Caracteres ao fim da linha\uMain.pas</Transaction>
+    <Transaction>2018/12/03 11:01:08.737.dfm,C:\Users\gian.eric\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\gian.eric\Documents\RAD Studio\Projects\Gravar Caracteres ao fim da linha\uMain.dfm</Transaction>
+    <Transaction>2018/12/03 11:01:19.674.dproj,C:\Users\gian.eric\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\gian.eric\Documents\RAD Studio\Projects\Gravar Caracteres ao fim da linha\GravaCaracteresFimLinha.dproj</Transaction>
+    <Transaction>2018/12/03 11:05:43.638.dproj,C:\Users\gian.eric\Documents\RAD Studio\Projects\Gravar Caracteres ao fim da linha\GravaCaracteresFimLinha.dproj=C:\Users\gian.eric\Documents\RAD Studio\Projects\Gravar Caracteres ao fim da linha\GravaCaracteres.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
